@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:K.VARNIKA
 🔭 I’m currently an undergraduate student working on simple c language programmes.<br>👯 I’m looking to collaborate and explore in various computer languages like python and javascript.<br>🤝 I’m looking for help in creating and building new projects.<br>🌱 I’m currently learning c and java.<br>⚡ I excel in languages like python and MySQL.
 
 
